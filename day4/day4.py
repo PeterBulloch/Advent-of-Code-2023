@@ -1,5 +1,3 @@
-import re
-
 def main():
     print(part1())
     print(part2())
